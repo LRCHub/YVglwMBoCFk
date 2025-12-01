@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Colorado",
+  "base_artist": "ミコラス・ヨセフ",
+  "createdAt": "2025-12-01T03:58:48.940681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Colorado",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/01_Colorado_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Colorado Cool Aid",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/02_Colorado_Cool_Aid_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Colorado Cool-Aid",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/03_Colorado_Cool-Aid_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Key West & Colorado",
+      "artist": "Chase Rice",
+      "has_synced": true,
+      "path": "select/04_Key_West_&_Colorado_Chase_Rice.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Colorado",
+      "artist": "Grizzly Bear",
+      "has_synced": true,
+      "path": "select/05_Colorado_Grizzly_Bear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Colorado Bulldog",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/06_Colorado_Bulldog_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Colorado Bulldog - 2009 Remastered Version",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/07_Colorado_Bulldog_-_2009_Remastered_Version_Mr._Big.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Colorado Bulldog - 2009 Remastered Version (2009 Remastered Version)",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/08_Colorado_Bulldog_-_2009_Remastered_Version_(2009_Remastered_Version)_Mr._Big.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Colorado Incident",
+      "artist": "The Gathering",
+      "has_synced": true,
+      "path": "select/09_Colorado_Incident_The_Gathering.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Surf Colorado",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/10_Surf_Colorado_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "colorado bulldog",
+      "artist": "Mr Big",
+      "has_synced": true,
+      "path": "select/11_colorado_bulldog_Mr_Big.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Colorado Sunrise",
+      "artist": "3OH!3",
+      "has_synced": true,
+      "path": "select/12_Colorado_Sunrise_3OH!3.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Colorado",
+      "artist": "Stephen Stills",
+      "has_synced": true,
+      "path": "select/13_Colorado_Stephen_Stills.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Colorado",
+      "artist": "Milky Chance",
+      "has_synced": true,
+      "path": "select/14_Colorado_Milky_Chance.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chico el Colorado",
+      "artist": "Chalino Sanchez",
+      "has_synced": false,
+      "path": "select/15_Chico_el_Colorado_Chalino_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "El Gavilán Colorado",
+      "artist": "Pedrito Fernandez",
+      "has_synced": false,
+      "path": "select/16_El_Gavilán_Colorado_Pedrito_Fernandez.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "La Del Moño Colorado",
+      "artist": "Los Pedernales",
+      "has_synced": true,
+      "path": "select/17_La_Del_Moño_Colorado_Los_Pedernales.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Colorado Bulldog",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/pl_01_Colorado_Bulldog_Mr._Big.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Colorado Girl",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/pl_02_Colorado_Girl_Mr._Big.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Colorado",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/pl_03_Colorado_Mr._Big.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Colorado",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/pl_04_Colorado_Mr._Big.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Colorado",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/pl_05_Colorado_Mr._Big.txt"
+    }
+  ]
+}
